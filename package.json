@@ -1,6 +1,6 @@
 {
   "name": "ring-api",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Unofficial API for ring doorbells and other devices",
   "main": "ring-api.js",
   "dependencies": {
@@ -24,7 +24,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "author": "Jim Higson",
+  "author": "Gary Gambill",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^8.1.2",
